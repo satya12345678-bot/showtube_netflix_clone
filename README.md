@@ -5,7 +5,6 @@ ShowTube is a Netflix-inspired video streaming platform built using modern web t
 ## Features
 
 - **Modern UI/UX:** Built with React and styled-components for a Netflix-like, responsive user interface.
-- **Authentication:** Secure email/password authentication using Firebase.
 - **Browse & Search:** Explore movies and TV shows by categories/genres with search functionality.
 - **Personal List:** Users can add or remove movies from their personal "My List."
 - **Backend API:** Node.js & Express server for backend logic and MongoDB for persistent storage.
